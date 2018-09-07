@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="change_city">Change city</string>
+    <string name="place_not_found">Information not found.</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressureV">mmHg</string>
+    <string name="last_update">Last update</string>
+    <string name="lang">en</string>
+    <string name="current">Current</string>
+    <string name="forecast">5 Days</string>
+
+    <string name="open_weather_maps_app_id" translatable="false">d58c8c8f65949088dd020e558bd2c180</string>
+</resources>
